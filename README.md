@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @sabdelmalik
-- 👀 I’m interested in programming in general. I code in c#, c, c++, java and java script.
--     I'm also interested in programming microcontrollers and building circuits around them.
--     I completed tagging the Smith and Van Dyke Arabic Bible which can be viewed [** here **](https://www.stepbible.org/?q=version=AraSVD|version=ESV|version=OHB|reference=Ps.8&options=VNH&display=INTERLEAVED).
--     I'm currently working on translating BDB lexicon to Arabic.
-- 📫 How to reach me: sami.abdelmalik@gmail.com
+
+I’m interested in programming in general. I code in mainly in c#, but also c, c++, Java and JavaScript.<br>
+I'm also interested in programming microcontrollers (which I used to program in assembly language) and designing/building circuits around them.<br><br>
+I completed tagging the Smith and Van Dyke Arabic Bible which can be viewed 
+[here](https://www.stepbible.org/?q=version=AraSVD|version=ESV|version=OHB|reference=Ps.8&options=VNH&display=INTERLEAVED).<br>
+I'm currently working on translating BDB lexicon to Arabic.<br>
+
+How to reach me: sami.abdelmalik@gmail.com
 
 <!---
 sabdelmalik/sabdelmalik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
